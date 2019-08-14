@@ -6,13 +6,7 @@ body
             	background-color:#000000;
 				background-image: url(aaasttatick.jpg);
             	background-repeat: repeat;
-            	background-position:left;
-            	background-attachment:scroll;
-            	background-size: auto;
-	            	background-size:225px 225px;
-				background-image: url(aaasttatick.jpg);
-            	background-repeat: repeat;
-            	background-position:right;
+            	background-position:center;
             	background-attachment:scroll;
             	background-size: auto;
 	            	background-size:225px 225px;
