@@ -8,8 +8,6 @@ body
             	background-repeat: repeat-y;
             	background-position:center;
             	background-attachment:scroll;
-            	background-size: auto;
-	            	background-size:225px 225px;
 }
 h1   {color: darkslateblue;}
 
