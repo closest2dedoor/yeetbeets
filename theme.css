@@ -5,9 +5,9 @@ body
 {
             	background-color:#000000;
 				background-image: url(aaasttatick.jpg);
-            	background-repeat: repeat-y;
+            	background-repeat: no-repeat;
             	background-position: center;
-            	background-attachment: scroll;
+            	background-attachment: fixed;
 }
 h1   {color: darkslateblue;}
 
