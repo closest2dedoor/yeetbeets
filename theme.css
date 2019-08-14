@@ -3,13 +3,13 @@
 
 body
 {
-            	background-color:#FFFEFD;
+            	background-color:#000000;
 				background-image: url(asttatick.jpg);
             	background-repeat: no-repeat;
             	background-position:center;
             	background-attachment:fixed;
             	background-size: auto;
-	            	background-size:1290px 768px;
+	            	background-size:227px 222px;
 }
 h1   {color: darkslateblue;}
 
