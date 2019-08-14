@@ -4,12 +4,18 @@
 body
 {
             	background-color:#000000;
-				background-image: url(aasttatick.jpg);
-            	background-repeat: no-repeat;
-            	background-position:center;
+				background-image: url(aaasttatick.jpg);
+            	background-repeat: repeat;
+            	background-position:left;
             	background-attachment:fixed;
             	background-size: auto;
-	            	background-size:786px 576px;
+	            	background-size:225px 225px;
+				background-image: url(aaasttatick.jpg);
+            	background-repeat: repeat;
+            	background-position:right;
+            	background-attachment:fixed;
+            	background-size: auto;
+	            	background-size:225px 225px;
 }
 h1   {color: darkslateblue;}
 
