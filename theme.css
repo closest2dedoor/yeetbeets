@@ -7,13 +7,13 @@ body
 				background-image: url(aaasttatick.jpg);
             	background-repeat: repeat;
             	background-position:left;
-            	background-attachment:fixed;
+            	background-attachment:scroll;
             	background-size: auto;
 	            	background-size:225px 225px;
 				background-image: url(aaasttatick.jpg);
             	background-repeat: repeat;
             	background-position:right;
-            	background-attachment:fixed;
+            	background-attachment:scroll;
             	background-size: auto;
 	            	background-size:225px 225px;
 }
